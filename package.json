@@ -1,0 +1,25 @@
+{
+  "name": "fis-postpackager-manifest",
+  "version": "1.0.0",
+  "description": "a postpackager plugin for generate manifest file for fis2.0",
+  "main": "index.js",  
+  "keywords": [
+    "fis",
+    "postpackager",
+    "package",
+    "manifest"
+  ],
+  "author": {
+    "name": "tinhour",
+    "email": "fangfeng335@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinhour/fis-postpackager-manifest"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinhour/fis-postpackager-manifest/issues"
+  },
+  "homepage": "https://github.com/tinhour/fis-postpackager-manifest"
+}
